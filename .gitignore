@@ -1,0 +1,6 @@
+obj
+.DS_Store
+ircserv
+__pycache__
+.vscode
+playground
